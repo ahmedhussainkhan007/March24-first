@@ -4,3 +4,5 @@
 # i will be adding changes here
 # you should add changes
 ### you should know about git ignore
+
+### understand git local merges and conflicts
